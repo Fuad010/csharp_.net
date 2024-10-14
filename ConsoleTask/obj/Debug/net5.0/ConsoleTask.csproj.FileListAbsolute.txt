@@ -1,0 +1,16 @@
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\bin\Debug\net5.0\ConsoleTask.exe
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\bin\Debug\net5.0\ConsoleTask.deps.json
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\bin\Debug\net5.0\ConsoleTask.runtimeconfig.json
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\bin\Debug\net5.0\ConsoleTask.runtimeconfig.dev.json
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\bin\Debug\net5.0\ConsoleTask.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\bin\Debug\net5.0\ConsoleTask.pdb
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ConsoleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ConsoleTask.AssemblyInfoInputs.cache
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ConsoleTask.AssemblyInfo.cs
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ConsoleTask.sourcelink.json
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ConsoleTask.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\refint\ConsoleTask.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ConsoleTask.pdb
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ConsoleTask.genruntimeconfig.cache
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleTask\obj\Debug\net5.0\ref\ConsoleTask.dll

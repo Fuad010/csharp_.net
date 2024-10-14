@@ -13,3 +13,4 @@ C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\Console
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.sourcelink.json

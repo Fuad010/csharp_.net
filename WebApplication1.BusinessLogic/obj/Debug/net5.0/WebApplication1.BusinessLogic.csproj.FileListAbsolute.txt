@@ -13,3 +13,4 @@ C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebAppl
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.BusinessLogic\obj\Debug\net5.0\refint\WebApplication1.BusinessLogic.dll
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.BusinessLogic\obj\Debug\net5.0\WebApplication1.BusinessLogic.pdb
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.BusinessLogic\obj\Debug\net5.0\ref\WebApplication1.BusinessLogic.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.BusinessLogic\obj\Debug\net5.0\WebApplication1.BusinessLogic.sourcelink.json

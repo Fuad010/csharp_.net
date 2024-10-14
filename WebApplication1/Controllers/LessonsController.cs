@@ -9,16 +9,25 @@ namespace WebApplication1.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    public class HomeWorksController : ControllerBase
+    {
+        private readonly IHomeworksService _homeworksService;
+        public HomeWorksController(IHomeworksService homeworksService)
+        {
+            _homeworksService = homeworksService;
+        }
+    }
+
+    [ApiController]
+    [Route("[controller]")]
     public class LessonsController : ControllerBase
     {
-        private ILessonsService _lessonsService;
+        private readonly ILessonsService _lessonsService;
 
         public LessonsController()
         {
             ILessonsRepository lessonsRepository = new LessonsRepository();
             LessonsService _lessonService = new LessonsService(lessonsRepository, null);
-
-            _lessonService.GithubClient = new GithubClient();
         }
 
         [HttpGet]

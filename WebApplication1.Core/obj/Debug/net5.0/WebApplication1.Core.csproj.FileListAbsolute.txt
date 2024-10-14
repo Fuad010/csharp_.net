@@ -9,3 +9,4 @@ C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebAppl
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\refint\WebApplication1.Core.dll
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\WebApplication1.Core.pdb
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\ref\WebApplication1.Core.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\WebApplication1.Core.sourcelink.json

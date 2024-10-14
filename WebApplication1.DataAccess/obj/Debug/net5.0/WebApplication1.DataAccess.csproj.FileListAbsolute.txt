@@ -13,3 +13,4 @@ C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebAppl
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\bin\Debug\net5.0\WebApplication1.Core.pdb
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.csproj.AssemblyReference.cache
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebAppli.D821795D.Up2Date
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.sourcelink.json

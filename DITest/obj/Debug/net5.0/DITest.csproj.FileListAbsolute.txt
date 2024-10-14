@@ -17,3 +17,4 @@ C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\DITest\
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\DITest\obj\Debug\net5.0\DITest.pdb
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\DITest\obj\Debug\net5.0\DITest.genruntimeconfig.cache
 C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\DITest\obj\Debug\net5.0\ref\DITest.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\DITest\obj\Debug\net5.0\DITest.sourcelink.json
