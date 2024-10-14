@@ -1,0 +1,4 @@
+name = asd
+description = asd
+chapters = 43
+totalDay = 34

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebApplication1.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "WebApplication1.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebApplication1.BusinessLogic.dll": {}
+        }
+      },
+      "WebApplication1.Core/1.0.0": {
+        "runtime": {
+          "WebApplication1.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplication1.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApplication1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

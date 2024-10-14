@@ -1,0 +1,15 @@
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\bin\Debug\net5.0\WebApplication1.DataAccess.deps.json
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\bin\Debug\net5.0\WebApplication1.DataAccess.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\bin\Debug\net5.0\WebApplication1.DataAccess.pdb
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.AssemblyInfo.cs
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\refint\WebApplication1.DataAccess.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.pdb
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\ref\WebApplication1.DataAccess.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\bin\Debug\net5.0\WebApplication1.Core.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\bin\Debug\net5.0\WebApplication1.Core.pdb
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebApplication1.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.DataAccess\obj\Debug\net5.0\WebAppli.D821795D.Up2Date

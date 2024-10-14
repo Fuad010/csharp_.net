@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebApplication1.DataAccess/1.0.0": {
+        "dependencies": {
+          "WebApplication1.Core": "1.0.0"
+        },
+        "runtime": {
+          "WebApplication1.DataAccess.dll": {}
+        }
+      },
+      "WebApplication1.Core/1.0.0": {
+        "runtime": {
+          "WebApplication1.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplication1.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApplication1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

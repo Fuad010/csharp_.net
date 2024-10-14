@@ -1,0 +1,11 @@
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\bin\Debug\net5.0\WebApplication1.Core.deps.json
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\bin\Debug\net5.0\WebApplication1.Core.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\bin\Debug\net5.0\WebApplication1.Core.pdb
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\WebApplication1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\WebApplication1.Core.AssemblyInfoInputs.cache
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\WebApplication1.Core.AssemblyInfo.cs
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\WebApplication1.Core.csproj.CoreCompileInputs.cache
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\WebApplication1.Core.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\refint\WebApplication1.Core.dll
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\WebApplication1.Core.pdb
+C:\Users\dezhu\OneDrive\Рабочий стол\.net api\WebApplication1\WebApplication1.Core\obj\Debug\net5.0\ref\WebApplication1.Core.dll
