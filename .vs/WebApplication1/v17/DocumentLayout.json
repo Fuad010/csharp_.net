@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{AF69214A-6DB0-4765-A875-E5D5D050A1BE}|WebApplictaion1.BusinessLogic.MsTests\\WebApplictaion1.BusinessLogic.MsTests.csproj|solutionrelative:webapplictaion1.businesslogic.mstests\\homeworksservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5DC1AC1F-2FFB-4DCC-B016-343DA7E93AAC}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dezhu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\webapplication1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC1AC1F-2FFB-4DCC-B016-343DA7E93AAC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{327DB39E-530F-4BEA-B190-E829E9E977B1}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|c:\\users\\dezhu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\webapplication1\\webapplication1.businesslogic\\homeworksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{327DB39E-530F-4BEA-B190-E829E9E977B1}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\homeworksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FAB19E-EFC3-4037-91AD-75C400DE1F8F}|WebApplication1.Core\\WebApplication1.Core.csproj|c:\\users\\dezhu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\webapplication1\\webapplication1.core\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FAB19E-EFC3-4037-91AD-75C400DE1F8F}|WebApplication1.Core\\WebApplication1.Core.csproj|solutionrelative:webapplication1.core\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FAB19E-EFC3-4037-91AD-75C400DE1F8F}|WebApplication1.Core\\WebApplication1.Core.csproj|c:\\users\\dezhu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\webapplication1\\webapplication1.core\\repositories\\ilessonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FAB19E-EFC3-4037-91AD-75C400DE1F8F}|WebApplication1.Core\\WebApplication1.Core.csproj|solutionrelative:webapplication1.core\\repositories\\ilessonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FAB19E-EFC3-4037-91AD-75C400DE1F8F}|WebApplication1.Core\\WebApplication1.Core.csproj|c:\\users\\dezhu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\webapplication1\\webapplication1.core\\repositories\\ihomeworksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FAB19E-EFC3-4037-91AD-75C400DE1F8F}|WebApplication1.Core\\WebApplication1.Core.csproj|solutionrelative:webapplication1.core\\repositories\\ihomeworksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B00D3DD6-EF0D-4642-A305-A4A419C95678}|WebApplication1.DataAccess\\WebApplication1.DataAccess.csproj|c:\\users\\dezhu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\webapplication1\\webapplication1.dataaccess\\homeworksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +38,69 @@
       "DocumentGroups": [
         {
           "DockedHeight": 214,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:55:57.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILessonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.Core\\Repositories\\ILessonsRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Core\\Repositories\\ILessonsRepository.cs",
+              "ToolTip": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.Core\\Repositories\\ILessonsRepository.cs",
+              "RelativeToolTip": "WebApplication1.Core\\Repositories\\ILessonsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:26:23.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHomeworksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.Core\\Repositories\\IHomeworksRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Core\\Repositories\\IHomeworksRepository.cs",
+              "ToolTip": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.Core\\Repositories\\IHomeworksRepository.cs",
+              "RelativeToolTip": "WebApplication1.Core\\Repositories\\IHomeworksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:24:39.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HomeworksRepository.cs",
               "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.DataAccess\\HomeworksRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1.DataAccess\\HomeworksRepository.cs",
               "ToolTip": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.DataAccess\\HomeworksRepository.cs",
               "RelativeToolTip": "WebApplication1.DataAccess\\HomeworksRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwA0AAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T13:31:49.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeworksService.cs",
               "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.BusinessLogic\\HomeworksService.cs",
               "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\HomeworksService.cs",
               "ToolTip": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.BusinessLogic\\HomeworksService.cs",
               "RelativeToolTip": "WebApplication1.BusinessLogic\\HomeworksService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T12:31:02.151Z",
               "EditorCaption": ""
@@ -58,9 +113,22 @@
               "RelativeDocumentMoniker": "WebApplictaion1.BusinessLogic.MsTests\\HomeworksServiceTests.cs",
               "ToolTip": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplictaion1.BusinessLogic.MsTests\\HomeworksServiceTests.cs",
               "RelativeToolTip": "WebApplictaion1.BusinessLogic.MsTests\\HomeworksServiceTests.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAswE4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T12:15:40.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.Core\\Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Core\\Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.Core\\Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "WebApplication1.Core\\Exceptions\\BusinessException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:27:42.145Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 using WebApplication1.Core;
+using WebApplication1.Core.Repositories;
 
 namespace WebApplication1.BusinessLogic
 {

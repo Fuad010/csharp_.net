@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WebApplication1.Core;
+using WebApplication1.Core.Repositories;
 
 namespace WebApplication1.DataAccess
 {

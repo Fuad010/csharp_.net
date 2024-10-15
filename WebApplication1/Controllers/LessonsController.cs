@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using WebApplication1.BusinessLogic;
 using WebApplication1.Core;
+using WebApplication1.Core.Repositories;
 using WebApplication1.DataAccess;
 
 namespace WebApplication1.Controllers

@@ -1,5 +1,5 @@
 ﻿using System;
-using WebApplication1.Core;
+using WebApplication1.Core.Repositories;
 
 namespace WebApplication1.DataAccess
 {

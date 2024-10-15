@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Core
+﻿namespace WebApplication1.Core.Repositories
 {
     public interface IHomeworksRepository
     {
