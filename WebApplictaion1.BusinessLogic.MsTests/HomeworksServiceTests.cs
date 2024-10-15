@@ -87,7 +87,7 @@ namespace WebApplictaion1.BusinessLogic.MsTests
             //assert
             exception.Should().NotBeNull()
               .And
-              .Match<ArgumentNullException>(x => x.Message == HomeworksService.HOMEWORK_IS_INVALID);
+              .Match<BusinessException>(x => x.Message == HomeworksService.HOMEWORK_IS_INVALID);
 
 
             //Assert.IsNotNull(exception);
