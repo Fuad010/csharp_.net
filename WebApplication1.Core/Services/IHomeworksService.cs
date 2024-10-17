@@ -8,5 +8,7 @@ namespace WebApplication1.Core
 {
     public interface IHomeworksService
     {
+        bool Create(Homework homework);
+        bool Delete(int homeworkId);
     }
 }

@@ -8,8 +8,12 @@ using WebApplication1.Core.Repositories;
 
 namespace WebApplication1.DataAccess
 {
-    public class HomeworksRepository : IHomeworksRepository
+    public class HomeworksRepository : IHomeworksRepository 
     {
+        public HomeworksRepository()
+        {
+            
+        }
         public void Add(Homework homework)
         {
             throw new NotImplementedException();

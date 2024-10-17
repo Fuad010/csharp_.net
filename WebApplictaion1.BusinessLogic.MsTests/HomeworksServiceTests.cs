@@ -35,7 +35,7 @@ namespace WebApplictaion1.BusinessLogic.MsTests
             var fixture = new Fixture();
 
             var homework = fixture.Build<Homework>()
-                .With(x => x.MemberId, 351)
+                .With(x => x.MemberId, 431)
                 .Without(x => x.MentorId)
                 .Create();
 
@@ -74,12 +74,18 @@ namespace WebApplictaion1.BusinessLogic.MsTests
             result.Should().BeFalse();
             _homeworkRepositoryMock.Verify(x => x.Add(homework), Times.Never);
         }
-        [TestMethod]
-        public void Create_HomeworkIsInvalid_ShouldThrowBusinessException()
+        [DataTestMethod]
+        [DataRow(4)]
+        [DataRow(0)]
+        [DataRow(034)]
+        [DataRow(-3434)]
+        [DataRow(-3454331)]
+        [DataRow(134353543)]
+        public void Create_HomeworkIsInvalid_ShouldThrowBusinessException(int memberId)
         {
             //arrange
             var homework = new Homework();
-
+            homework.MemberId = memberId;
             //act
             bool result = false;
             var exception = Assert.ThrowsException<BusinessException>(() => result = _service.Create(homework));
@@ -96,7 +102,6 @@ namespace WebApplictaion1.BusinessLogic.MsTests
 
             result.Should().BeFalse(); 
             _homeworkRepositoryMock.Verify(x => x.Add(homework), Times.Never);
-
         }
 
         [TestMethod]
