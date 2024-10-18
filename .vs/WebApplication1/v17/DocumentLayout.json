@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5DC1AC1F-2FFB-4DCC-B016-343DA7E93AAC}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dezhu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\webapplication1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC1AC1F-2FFB-4DCC-B016-343DA7E93AAC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4FAB19E-EFC3-4037-91AD-75C400DE1F8F}|WebApplication1.Core\\WebApplication1.Core.csproj|c:\\users\\dezhu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\webapplication1\\webapplication1.core\\services\\ihomeworksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4FAB19E-EFC3-4037-91AD-75C400DE1F8F}|WebApplication1.Core\\WebApplication1.Core.csproj|solutionrelative:webapplication1.core\\services\\ihomeworksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 214,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAkwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:57:45.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeworksRepository.cs",
               "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.DataAccess\\HomeworksRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1.DataAccess\\HomeworksRepository.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "WebApplication1.DataAccess\\HomeworksRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:09:48.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T16:09:48.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IHomeworksService.cs",
               "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.Core\\Services\\IHomeworksService.cs",
               "RelativeDocumentMoniker": "WebApplication1.Core\\Services\\IHomeworksService.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "WebApplication1.Core\\Services\\IHomeworksService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:07:12.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T16:07:12.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeworksService.cs",
               "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplication1.BusinessLogic\\HomeworksService.cs",
               "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\HomeworksService.cs",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "WebApplication1.BusinessLogic\\HomeworksService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:05:11.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T16:05:11.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeworksServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\dezhu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\.net api\\WebApplication1\\WebApplictaion1.BusinessLogic.MsTests\\HomeworksServiceTests.cs",
               "RelativeDocumentMoniker": "WebApplictaion1.BusinessLogic.MsTests\\HomeworksServiceTests.cs",
@@ -77,8 +91,7 @@
               "RelativeToolTip": "WebApplictaion1.BusinessLogic.MsTests\\HomeworksServiceTests.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAzwC0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:15:40.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T12:15:40.801Z"
             }
           ]
         },

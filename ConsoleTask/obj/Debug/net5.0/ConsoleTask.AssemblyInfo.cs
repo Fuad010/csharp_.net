@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692729949c732854168acfe67b170188b38bb905")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d11b9b6b6cdd73f87e0c0d7a52f6ce5429677d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
